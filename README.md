@@ -1,5 +1,4 @@
-![image](https://github.com/ValdezMich128/UIII-Act-4-crud-relacional-sadboyz/assets/143743936/71c460b3-7a77-4183-a22a-58b7bea74b5c)
-![image](https://github.com/ValdezMich128/UIII-Act-4-crud-relacional-sadboyz/assets/143743936/a458b20b-81bb-48ce-9211-0371f20d15aa)
+![image](https://github.com/ValdezMich128/UIII-Act-4-crud-relacional-sadboyz/assets/143743936/b9162da9-62d3-4124-81ce-49cc1499a688)
 ![image](https://github.com/ValdezMich128/UIII-Act-4-crud-relacional-sadboyz/assets/143743936/40ac0acc-7e70-4a6b-9cb9-a654afc9838e)
 ![image](https://github.com/ValdezMich128/UIII-Act-4-crud-relacional-sadboyz/assets/143743936/1b6d9ad9-5a7d-4d7a-80e3-3732976a4fcd)
 ![image](https://github.com/ValdezMich128/UIII-Act-4-crud-relacional-sadboyz/assets/143743936/715fa83e-0349-4ffe-982d-69f302b34d70)
